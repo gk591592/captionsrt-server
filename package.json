@@ -1,0 +1,9 @@
+{
+  "name": "captionsrt-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "type": "module"
+}
